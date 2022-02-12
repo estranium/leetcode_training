@@ -1,1 +1,2 @@
-# leetcode_training
+# leetcode training
+problem solving from leetcode.com
